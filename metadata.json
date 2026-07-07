@@ -1,0 +1,6 @@
+{
+  "name": "SystemArchitect AI",
+  "description": "System design mentor app that uses the Enhanced Master Prompt to provide detailed, technically rigorous explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
